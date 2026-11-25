@@ -1,0 +1,14 @@
+c:\Users\Spider101Venom\Documents\BJTgateLab\bin\Debug\net10.0\BJTgateLab.exe
+C:\Users\Spider101Venom\Documents\BJTgateLab\bin\Debug\net10.0\BJTgateLab.deps.json
+C:\Users\Spider101Venom\Documents\BJTgateLab\bin\Debug\net10.0\BJTgateLab.runtimeconfig.json
+c:\Users\Spider101Venom\Documents\BJTgateLab\bin\Debug\net10.0\BJTgateLab.dll
+c:\Users\Spider101Venom\Documents\BJTgateLab\bin\Debug\net10.0\BJTgateLab.pdb
+c:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\BJTgateLab.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\BJTgateLab.AssemblyInfoInputs.cache
+c:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\BJTgateLab.AssemblyInfo.cs
+c:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\BJTgateLab.csproj.CoreCompileInputs.cache
+c:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\BJTgateLab.dll
+c:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\refint\BJTgateLab.dll
+c:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\BJTgateLab.pdb
+C:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\BJTgateLab.genruntimeconfig.cache
+C:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\ref\BJTgateLab.dll

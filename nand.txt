@@ -1,0 +1,21 @@
+# RTL NAND, beta=20
+V VCC VCC 0 5
+V VA A 0 5
+V VB B 0 5
+R Rc VCC OUT 1000
+R Rb1 A B1 10000
+R Rb2 B B2 10000
+Q Q1 OUT B1 MID 20
+Q Q2 MID B2 0 20
+
+
+
+
+
+
+
+#	# комментарий
+#	V имя узел+ узел- вольты
+#	R имя узелA узелB омы
+#	Q имя C B E beta
+#	(NPN; узел 0 = земля)
