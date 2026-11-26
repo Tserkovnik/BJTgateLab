@@ -86,6 +86,13 @@ namespace BJTgateLab
                 string nodes = d.Kind == Kind.Q ? $"{d.A},{d.B},{d.C}" : $"{d.A},{d.B}";
                 Console.WriteLine($"  {d.Name} [{d.Kind}] узлы=({nodes}) значение={d.Value}");
             }
+
+            var sv = new Solver(nl);
+            double[] x = sv.Solve();
+            Console.WriteLine($"Итераций: {sv.Iters}, невязка: {sv.FinalNorm:e2}");
+            Console.WriteLine("Напряжения:");
+            for (int i = 0; i < nl.NodeNames.Count; i++)
+                Console.WriteLine($"  {nl.NodeNames[i]} = {(i == 0 ? 0 : x[i - 1]):F4} В");
         }
     }
 }

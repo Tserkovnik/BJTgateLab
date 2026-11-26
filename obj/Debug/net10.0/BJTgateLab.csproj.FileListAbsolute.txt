@@ -12,3 +12,4 @@ c:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\refint\BJTgateLab
 c:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\BJTgateLab.pdb
 C:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\BJTgateLab.genruntimeconfig.cache
 C:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\ref\BJTgateLab.dll
+C:\Users\Spider101Venom\Documents\BJTgateLab\obj\Debug\net10.0\BJTgateLab.sourcelink.json
